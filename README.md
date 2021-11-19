@@ -1,4 +1,4 @@
-# hyrule-jobs
+# 米修在线直播班demo
 
 ## Project setup
 ```
